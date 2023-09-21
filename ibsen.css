@@ -1,0 +1,29 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    font-size: 16;
+}
+.direction{
+    color:black;
+    font-size: 18;
+    background-color: aquamarine;
+}
+.direction:hover{
+    background-color: blueviolet;
+    color: brown;
+}
+.NORA{
+    font-family: Arial, Helvetica, sans-serif;
+    color:hotpink;
+    background-color: blanchedalmond;
+}
+.HELMER{
+    font-family: 'Courier New', Courier, monospace;
+    color:aquamarine;
+    background-color: antiquewhite;
+}
+.MAID{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:blue;
+    background-color: bisque;
+}
