@@ -27,3 +27,133 @@
     color:blue;
     background-color: bisque;
 }
+table{
+   
+    width: 100%;
+
+    border:3px solid;
+
+    /*border-style: dashed;*/
+
+}
+
+ 
+
+th{
+
+   /* border-style: dotted;*/
+
+   border:3px solid;
+
+    color:black;
+
+    text-align: center;    
+
+    margin:auto;
+
+}
+
+table, th{
+
+    border:1px solid;
+
+    border-collapse: collapse;
+
+}
+
+th{
+
+    color:green
+
+   
+
+}
+
+td{
+
+     border:1px solid;
+
+    /* color: crimson; */
+
+    border-top:1px solid;
+
+    border-bottom:1px solid;
+
+}
+
+tr{
+
+    border:3px solid ;
+
+    border-style: double;
+
+    text-align: center;
+
+    margin: auto;
+
+    padding: 1%;
+
+    color:brown;
+
+    /* border-top:1px solid black;
+
+    border-bottom:5px solid brown; */
+
+}
+
+tr:nth-child(odd){
+
+    border-radius: 1%;
+
+}
+.navbar-horizontal{
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow:hidden;
+
+    background-color:aqua;
+
+}
+
+li{
+
+    float: left;
+
+}
+
+li a{
+
+    display: block;
+
+    color: black;
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    text-decoration:dotted;
+
+}
+
+li a:hover:not(.active) {
+
+    background-color:green;
+
+}
+
+.active {
+
+    background-color:goldenrod;
+
+}
+
+.material-icons{
+
+color:red;
+
+}
