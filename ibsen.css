@@ -116,7 +116,7 @@ tr:nth-child(odd){
 
     overflow:hidden;
 
-    background-color:aqua;
+    background-color:blueviolet;
 
 }
 
@@ -142,7 +142,7 @@ li a{
 
 li a:hover:not(.active) {
 
-    background-color:green;
+    background-color:brown;
 
 }
 
